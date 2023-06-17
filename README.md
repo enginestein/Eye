@@ -1,12 +1,12 @@
 # Eye - Sentiment Analysis Framework
 
-#To install, run:
+**To install, run**:
 
 ```bash
 npm install eyepkg
 ```
 
-#To use Eye in your code:
+**To use Eye in your code**:
 
 ```javascript
 var analyze = require('eyepkg').analyze;
@@ -18,13 +18,13 @@ negative('I am sick of this');
 positive('I am so happy');
 ```
 
-#You can also run the tests:
+**You can also run the tests**:
 
 ```bash
 make test
 ```
 
-#Todo:
+**Todo**:
 
 - Make more functions
 
