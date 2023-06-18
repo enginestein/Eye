@@ -29,5 +29,3 @@ make test
 - Make more functions
 
 - Make framework for more languages
-
-- Creating a data visualizer in R 
