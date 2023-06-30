@@ -2,11 +2,8 @@
   "name": "eyepkg",
   "description": "Sentiment analysis framework for javascript",
   "repository": "git://github.com/enginestein/Eye",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "author": "Arya Praneil Pritesh",
-  "dependencies": {
-    "eyepkg": "^1.0.0"
-  },
   "scripts": {
     "test": "make test"
   },
